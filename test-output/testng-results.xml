@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34882" started-at="2018-06-08T06:44:19Z" finished-at="2018-06-08T06:44:54Z">
+    <groups>
+    </groups>
+    <test name="Facebook" duration-ms="34882" started-at="2018-06-08T06:44:19Z" finished-at="2018-06-08T06:44:54Z">
+      <class name="com.facebook.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="setUP" is-config="true" duration-ms="10439" started-at="2018-06-08T06:44:25Z" finished-at="2018-06-08T06:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="verifyHomePageTitleTest" duration-ms="17" started-at="2018-06-08T06:44:35Z" finished-at="2018-06-08T06:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="tearDown" is-config="true" duration-ms="374" started-at="2018-06-08T06:44:35Z" finished-at="2018-06-08T06:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="setUP" is-config="true" duration-ms="8902" started-at="2018-06-08T06:44:44Z" finished-at="2018-06-08T06:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="clickOnProfileLinkTest()[pri:2, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="clickOnProfileLinkTest" duration-ms="398" started-at="2018-06-08T06:44:53Z" finished-at="2018-06-08T06:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnProfileLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.qa.testcases.HomePageTest@57baeedf]" name="tearDown" is-config="true" duration-ms="444" started-at="2018-06-08T06:44:53Z" finished-at="2018-06-08T06:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.qa.testcases.HomePageTest -->
+      <class name="com.facebook.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="setUp" is-config="true" duration-ms="5653" started-at="2018-06-08T06:44:19Z" finished-at="2018-06-08T06:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="loginPageTitleTest" duration-ms="18" started-at="2018-06-08T06:44:24Z" finished-at="2018-06-08T06:44:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="254" started-at="2018-06-08T06:44:24Z" finished-at="2018-06-08T06:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="setUp" is-config="true" duration-ms="4156" started-at="2018-06-08T06:44:35Z" finished-at="2018-06-08T06:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginWithValidDataTest()[pri:2, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="loginWithValidDataTest" duration-ms="3839" started-at="2018-06-08T06:44:40Z" finished-at="2018-06-08T06:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidDataTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="357" started-at="2018-06-08T06:44:43Z" finished-at="2018-06-08T06:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.qa.testcases.LoginPageTest -->
+    </test> <!-- Facebook -->
+  </suite> <!-- Suite -->
+</testng-results>

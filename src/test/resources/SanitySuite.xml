@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite test" verbose="1">
+	<listeners>
+		<listener class-name="com.facebook.qa.extend_reports.ExtendReporterNG" />
+		<listener class-name="com.facebook.qa.util.RetryTransformer"/>
+	</listeners>
+	<test name="Facebook">
+		<classes>
+			<class name="com.facebook.qa.testcases.LoginPageTest" />
+			<class name="com.facebook.qa.testcases.HomePageTest" />
+		</classes>
+	</test>
+
+</suite> 
